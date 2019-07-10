@@ -8,6 +8,9 @@ First deploy the Flask app wherever you like.
 The endpoint for search :
 
 ```/api/search```
+Parameters : 
+```count : integer, Number of questions to show```
+```question : string, The actual question```
 
 ## Example REST query : 
 
